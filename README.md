@@ -1,5 +1,7 @@
 # Welcome to the Meditation app 👋
 
+Update 2025: Expo SDK is deprecated for this version and in order to run SDK version needs to be udpated
+
 This is an app built with Expo (a framework built on top of React-native) showcasing a meditation app that plays relaxing music based on the mood you select and for the amount of time you prefer.
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
